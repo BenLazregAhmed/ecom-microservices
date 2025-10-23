@@ -1,0 +1,20 @@
+package org.ecom_ahmed.customer_service.entities;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.validation.annotation.Validated;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Data
+@Builder
+@Document
+@Validated
+public class Address {
+    private String street;
+    private String houseNumber;
+    private String zipCode;
+}
