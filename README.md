@@ -119,4 +119,3 @@ de la **communication event-driven** avec Kafka, et de l’intégration d’un *
 
 ---
 
-Souhaites-tu que je te génère aussi un **diagramme d’architecture (image)** pour l’ajouter au README (montrant les microservices, Kafka, Keycloak, DBs, etc.) ?
