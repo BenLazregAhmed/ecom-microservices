@@ -35,8 +35,8 @@ Les communications inter-services se font :
 
 | Domaine                          | Technologies                                |
 | -------------------------------- | ------------------------------------------- |
-| **Langage**                      | Java 17                                     |
-| **Framework principal**          | Spring Boot 3                               |
+| **Langage**                      | Java 21                                     |
+| **Framework principal**          | Spring Boot 3.3.3                               |
 | **Sécurité**                     | Spring Security → Keycloak                  |
 | **Communication**                | REST, Apache Kafka                          |
 | **Base de données**              | PostgreSQL (relationnelle), MongoDB (NoSQL) |
